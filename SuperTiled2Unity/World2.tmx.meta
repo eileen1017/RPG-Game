@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 7d3e8c22da722f7478f17a0bf45f9982
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Pixels Per Unit mismatch between map (100) and tileset 'g_material2.tsx' (32)
+  - Pixels Per Unit mismatch between map (100) and tileset 'g_material5.tsx' (32)
+  - Pixels Per Unit mismatch between map (100) and tileset 'g_material3.tsx' (32)
+  - Pixels Per Unit mismatch between map (100) and tileset 'Tileset1.tsx' (32)
+  - Pixels Per Unit mismatch between map (100) and tileset 'g_material1.tsx' (32)
+  - Pixels Per Unit mismatch between map (100) and tileset 'house4.tsx' (32)
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 21
+  pixelsPerUnit: 32
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

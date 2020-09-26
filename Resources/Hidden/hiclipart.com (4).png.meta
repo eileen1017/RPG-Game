@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 5aedffe3f7421754d8ec8547076e3013
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -517408868029323311
+    second: hiclipart.com (4)_0
+  - first:
+      213: 872039074065988567
+    second: hiclipart.com (4)_1
+  - first:
+      213: 1705220855627593125
+    second: hiclipart.com (4)_2
+  - first:
+      213: 6550563526042777987
+    second: hiclipart.com (4)_3
+  - first:
+      213: -2478995979202896737
+    second: hiclipart.com (4)_4
+  - first:
+      213: -8262654345374692997
+    second: hiclipart.com (4)_5
+  - first:
+      213: -6522386508197339712
+    second: hiclipart.com (4)_6
+  - first:
+      213: -688499537154219427
+    second: hiclipart.com (4)_7
+  - first:
+      213: 3973297675460313317
+    second: hiclipart.com (4)_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hiclipart.com (4)_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 602
+        width: 593
+        height: 337
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5e1e37d974c44cb3c82a392688647
+      internalID: -517408868029323311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 782
+        width: 296
+        height: 159
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa78d2d071d9e458ca0c5017a748d8
+      internalID: 872039074065988567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 340
+        width: 185
+        height: 200
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b2a78ef39e95408c7750191855869
+      internalID: 1705220855627593125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 245
+        width: 320
+        height: 378
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 142, y: 186}
+        - {x: -125, y: 186}
+        - {x: -160, y: 149}
+        - {x: -160, y: 14}
+        - {x: -136, y: -142}
+        - {x: -7, y: -189}
+        - {x: 23, y: -189}
+        - {x: 159, y: -140}
+        - {x: 159, y: 53}
+        - {x: 153, y: 169}
+      - - {x: -19, y: 186}
+        - {x: -17, y: 184}
+        - {x: -14, y: 185}
+        - {x: -14, y: 188}
+        - {x: -15, y: 189}
+        - {x: -19, y: 189}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7276d61d456fa5542b4db9ac06f6a8e5
+      internalID: 6550563526042777987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 437
+        width: 279
+        height: 256
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f1da8f7982a24684535213c5bf9d4
+      internalID: -2478995979202896737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 71
+        width: 210
+        height: 181
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561681cec91e9e345a5f946fbc5848a2
+      internalID: -8262654345374692997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 100
+        width: 147
+        height: 99
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38dcc969bdd1d44d86071897543d146
+      internalID: -6522386508197339712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com (4)_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 60
+        width: 317
+        height: 215
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b37faabddf91346b73f426bb7ed89c
+      internalID: -688499537154219427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: 431, y: -224}
+      - {x: 135, y: -224}
+      - {x: 135, y: -442}
+      - {x: 406, y: -442}
+      - {x: 455, y: -423}
+      - {x: 455, y: -350}
+      - {x: 439, y: -231}
+    - - {x: -275, y: -246}
+      - {x: -372, y: -246}
+      - {x: -380, y: -274}
+      - {x: -380, y: -364}
+      - {x: -369, y: -410}
+      - {x: -317, y: -426}
+      - {x: -176, y: -426}
+      - {x: -171, y: -422}
+      - {x: -167, y: -412}
+      - {x: -167, y: -345}
+      - {x: -234, y: -265}
+    - - {x: -30, y: -300}
+      - {x: -51, y: -321}
+      - {x: -89, y: -364}
+      - {x: -89, y: -402}
+      - {x: -16, y: -402}
+      - {x: 57, y: -376}
+      - {x: 61, y: -361}
+      - {x: 61, y: -300}
+    - - {x: -98, y: 120}
+      - {x: -180, y: 60}
+      - {x: -180, y: -158}
+      - {x: -107, y: -256}
+      - {x: 79, y: -256}
+      - {x: 137, y: -195}
+      - {x: 140, y: -181}
+      - {x: 140, y: 51}
+      - {x: 90, y: 120}
+    - - {x: -327, y: 41}
+      - {x: -336, y: 22}
+      - {x: -334, y: 8}
+      - {x: -402, y: 3}
+      - {x: -414, y: -48}
+      - {x: -414, y: -131}
+      - {x: -403, y: -161}
+      - {x: -231, y: -161}
+      - {x: -227, y: -160}
+      - {x: -227, y: -34}
+      - {x: -269, y: 41}
+    - - {x: 168, y: 194}
+      - {x: 168, y: -64}
+      - {x: 450, y: -64}
+      - {x: 450, y: 194}
+    - - {x: -299, y: 24}
+      - {x: -302, y: 25}
+      - {x: -309, y: 25}
+      - {x: -310, y: 24}
+      - {x: -312, y: 24}
+      - {x: -319, y: 19}
+      - {x: -319, y: 17}
+      - {x: -318, y: 18}
+      - {x: -316, y: 22}
+      - {x: -315, y: 22}
+      - {x: -311, y: 25}
+      - {x: -300, y: 25}
+      - {x: -297, y: 23}
+      - {x: -293, y: 19}
+      - {x: -293, y: 16}
+      - {x: -292, y: 15}
+      - {x: -291, y: 16}
+    - - {x: -456, y: 441}
+      - {x: -456, y: 286}
+      - {x: -369, y: 101}
+      - {x: -318, y: 101}
+      - {x: -307, y: 111}
+      - {x: -133, y: 267}
+      - {x: -133, y: 393}
+      - {x: -171, y: 441}
+    - - {x: 73, y: 323}
+      - {x: 44, y: 318}
+      - {x: 47, y: 326}
+      - {x: 49, y: 333}
+      - {x: 15, y: 323}
+      - {x: 33, y: 341}
+      - {x: 32, y: 348}
+      - {x: -11, y: 349}
+      - {x: -53, y: 328}
+      - {x: -60, y: 331}
+      - {x: -60, y: 327}
+      - {x: -50, y: 363}
+      - {x: -52, y: 365}
+      - {x: -56, y: 365}
+      - {x: -67, y: 354}
+      - {x: -74, y: 335}
+      - {x: -75, y: 340}
+      - {x: -61, y: 371}
+      - {x: -61, y: 373}
+      - {x: -63, y: 374}
+      - {x: -66, y: 374}
+      - {x: -80, y: 361}
+      - {x: -85, y: 340}
+      - {x: -84, y: 310}
+      - {x: -83, y: 303}
+      - {x: -91, y: 342}
+      - {x: -83, y: 367}
+      - {x: -87, y: 369}
+      - {x: -111, y: 374}
+      - {x: -147, y: 374}
+      - {x: -195, y: 316}
+      - {x: -195, y: 269}
+      - {x: -191, y: 266}
+      - {x: -186, y: 266}
+      - {x: -163, y: 206}
+      - {x: -156, y: 199}
+      - {x: -140, y: 203}
+      - {x: -139, y: 207}
+      - {x: -129, y: 208}
+      - {x: -126, y: 209}
+      - {x: -109, y: 242}
+      - {x: -113, y: 234}
+      - {x: -122, y: 207}
+      - {x: -118, y: 206}
+      - {x: -115, y: 207}
+      - {x: -102, y: 197}
+      - {x: -93, y: 197}
+      - {x: -95, y: 168}
+      - {x: -87, y: 168}
+      - {x: -81, y: 170}
+      - {x: -65, y: 156}
+      - {x: -45, y: 158}
+      - {x: 3, y: 202}
+      - {x: 14, y: 207}
+      - {x: 20, y: 210}
+      - {x: 15, y: 208}
+      - {x: 13, y: 205}
+      - {x: 11, y: 205}
+      - {x: -11, y: 185}
+      - {x: -34, y: 148}
+      - {x: -40, y: 119}
+      - {x: -39, y: 118}
+      - {x: -17, y: 118}
+      - {x: 104, y: 161}
+      - {x: 135, y: 204}
+      - {x: 135, y: 317}
+      - {x: 107, y: 325}
+    - - {x: 217, y: 443}
+      - {x: 182, y: 435}
+      - {x: 137, y: 330}
+      - {x: 137, y: 298}
+      - {x: 144, y: 283}
+      - {x: 149, y: 281}
+      - {x: 404, y: 281}
+      - {x: 435, y: 300}
+      - {x: 435, y: 334}
+      - {x: 347, y: 443}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

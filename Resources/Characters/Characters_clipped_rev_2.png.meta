@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 1134cc82a4aed074886236071a674938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6939494666750463175
+    second: Characters_clipped_rev_2_0
+  - first:
+      213: -4664991175437869582
+    second: Characters_clipped_rev_2_1
+  - first:
+      213: 6145908918040756082
+    second: Characters_clipped_rev_2_2
+  - first:
+      213: -6740060195455418899
+    second: Characters_clipped_rev_2_3
+  - first:
+      213: -2476262249465117558
+    second: Characters_clipped_rev_2_4
+  - first:
+      213: -6237503430766624871
+    second: Characters_clipped_rev_2_5
+  - first:
+      213: 6693436292810792195
+    second: Characters_clipped_rev_2_6
+  - first:
+      213: -3014270621086173948
+    second: Characters_clipped_rev_2_7
+  - first:
+      213: 9033474676570644161
+    second: Characters_clipped_rev_2_8
+  - first:
+      213: -6031398699608438273
+    second: Characters_clipped_rev_2_9
+  - first:
+      213: 5396204173278992625
+    second: Characters_clipped_rev_2_10
+  - first:
+      213: -4793137500424771632
+    second: Characters_clipped_rev_2_11
+  - first:
+      213: 9054647809155703163
+    second: Characters_clipped_rev_2_12
+  - first:
+      213: -6660239253946373570
+    second: Characters_clipped_rev_2_13
+  - first:
+      213: -7135406151802547699
+    second: Characters_clipped_rev_2_14
+  - first:
+      213: 8980258749375302428
+    second: Characters_clipped_rev_2_15
+  - first:
+      213: 3437956992518383717
+    second: Characters_clipped_rev_2_16
+  - first:
+      213: -6180287803495600359
+    second: Characters_clipped_rev_2_17
+  - first:
+      213: -7758279610418593729
+    second: Characters_clipped_rev_2_18
+  - first:
+      213: 2376002748165684283
+    second: Characters_clipped_rev_2_19
+  - first:
+      213: 8214160091292697063
+    second: Characters_clipped_rev_2_20
+  - first:
+      213: -2562392397581554320
+    second: Characters_clipped_rev_2_21
+  - first:
+      213: 1339791273452619824
+    second: Characters_clipped_rev_2_22
+  - first:
+      213: 4609066932205022464
+    second: Characters_clipped_rev_2_23
+  - first:
+      213: 708883994767229025
+    second: Characters_clipped_rev_2_24
+  - first:
+      213: -4726306751742390781
+    second: Characters_clipped_rev_2_25
+  - first:
+      213: -3075761945351790410
+    second: Characters_clipped_rev_2_26
+  - first:
+      213: 5350861921872523223
+    second: Characters_clipped_rev_2_27
+  - first:
+      213: 4845369942235174077
+    second: Characters_clipped_rev_2_28
+  - first:
+      213: -2485963987562250837
+    second: Characters_clipped_rev_2_29
+  - first:
+      213: 6254470978944489821
+    second: Characters_clipped_rev_2_30
+  - first:
+      213: -4251921520512970469
+    second: Characters_clipped_rev_2_31
+  - first:
+      213: -5247908149872408068
+    second: Characters_clipped_rev_2_32
+  - first:
+      213: -6071554671834410825
+    second: Characters_clipped_rev_2_33
+  - first:
+      213: 4997062661251428340
+    second: Characters_clipped_rev_2_34
+  - first:
+      213: -825679358845044344
+    second: Characters_clipped_rev_2_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.42857
+        width: 32.5
+        height: 33.57143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: 16.785715}
+        - {x: -9.5, y: -16.571426}
+        - {x: 4.5, y: -16.571426}
+        - {x: 5.5, y: -7.5714264}
+        - {x: 5.5, y: 16.428574}
+        - {x: 4.5, y: 16.785715}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870c2449d98d764ab74c597cca2a2a9
+      internalID: 6939494666750463175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201.42857
+        width: 32.5
+        height: 33.57143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e54e1007a2a6a84bb6bd32d6807f7d1
+      internalID: -4664991175437869582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19476f4675d3a8345a5ee79538cd7ca6
+      internalID: 6145908918040756082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201.42857
+        width: 32.5
+        height: 33.57143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17453281fdfd34d84a74af8ec3b551
+      internalID: -6740060195455418899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0679289e0a72be4449851072ac524293
+      internalID: -2476262249465117558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf43c14fd9c9bec44a0c8d9e8a9fe99d
+      internalID: -6237503430766624871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3192eb96fa1f984a8cf1007a5a5c186
+      internalID: 6693436292810792195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168.42857
+        width: 32.5
+        height: 33.57143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782e95276785b24eaa2374a36bf9cc0
+      internalID: -3014270621086173948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7545f565fad9f4c92b024892c92e8f
+      internalID: 9033474676570644161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c85d5277642224f8ebd31a098aeb69
+      internalID: -6031398699608438273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da0a84876cf4641a1ba963fce40b46
+      internalID: 5396204173278992625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135.42857
+        width: 32.5
+        height: 33.57143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16d61d325ae374fb08dee63a218f69
+      internalID: -4793137500424771632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280be3ad151431438f42f396d04c385
+      internalID: 9054647809155703163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 101
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0271cf42a9b7c984fa69e0304b2af409
+      internalID: -6660239253946373570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d0e44721477a41a68b53cda961a28
+      internalID: -7135406151802547699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e32c7ec8670944aba7e2c18e90b6a
+      internalID: 8980258749375302428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd2d1123a9e1de4896534c681a92e69
+      internalID: 3437956992518383717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2683f85f8bc0df4ab5acd3973602ab9
+      internalID: -6180287803495600359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd920cbc35112f43a9259866f9161e0
+      internalID: -7758279610418593729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ab7a5fe7847d4580ad247fa5eab9a
+      internalID: 2376002748165684283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d784b6ffb0b7e642a458903a9efdca9
+      internalID: 8214160091292697063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c1dab82a0e714e8dc860e39be1852
+      internalID: -2562392397581554320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4803275cd918a1499eda74f817dc34a
+      internalID: 1339791273452619824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f8cbf601d08a4eae4da3c2a9a1be6
+      internalID: 4609066932205022464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e941b8ba3dc446bcc87b59faf3b4a
+      internalID: 708883994767229025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a4939d80299144a355141e648b061
+      internalID: -4726306751742390781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d153e1b2cc2d45b7e942e1c5d650d
+      internalID: -3075761945351790410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters_clipped_rev_2_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51facef07fa90f24fbe43c0109c9a687
+      internalID: 5350861921872523223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
